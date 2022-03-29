@@ -27,7 +27,7 @@ Codepen is an amazing website where you can learn how to **code** and it also gi
   ### Homepage
   Once you have **signed up** or **signed in** you should come to Codepen homepage. It should look like the example below.
   
-  image
+![Image Title Text](writing_software_doc\homepage.png)
   
   ### Profile
   Now that you are logged in and are on the homepage, let’s dive in and talk about what is on the screen. 
