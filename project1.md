@@ -1,3 +1,10 @@
+---
+layout: page
+title: New Doc
+permalink: /example/
+---
+
+
 # First time users of Codepen
 
 
